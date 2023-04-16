@@ -15,5 +15,103 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employee": [
+    {
+      "firstName": "keshav",
+      "lastName": "Kumar",
+      "email": "jha@gmail.com",
+      "dob": "2023-04-01T18:30:00.000Z",
+      "gender": "1",
+      "eduction": "Diploma",
+      "company": "M",
+      "experience": 3,
+      "pacakage": 5,
+      "id": 1
+    },
+    {
+      "firstName": "keshav",
+      "lastName": "Kumar",
+      "email": "Kumar@gamil.com",
+      "dob": "2023-04-02T18:30:00.000Z",
+      "gender": "",
+      "eduction": "Intermidate",
+      "company": "m",
+      "experience": 1,
+      "pacakage": 5,
+      "id": 2
+    },
+    {
+      "firstName": "k",
+      "lastName": "k",
+      "email": "k@k.mail",
+      "dob": "2023-04-04T18:30:00.000Z",
+      "gender": "1",
+      "eduction": "Post Graduate",
+      "company": "m",
+      "experience": 2,
+      "pacakage": 3,
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "eduction": "",
+      "company": "",
+      "experience": "",
+      "pacakage": "",
+      "id": 4
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "eduction": "",
+      "company": "",
+      "experience": "",
+      "pacakage": "",
+      "id": 5
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "eduction": "",
+      "company": "",
+      "experience": "",
+      "pacakage": "",
+      "id": 6
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "eduction": "",
+      "company": "",
+      "experience": "",
+      "pacakage": "",
+      "id": 7
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "eduction": "",
+      "company": "",
+      "experience": "",
+      "pacakage": "",
+      "id": 8
+    }
+  ]
 }

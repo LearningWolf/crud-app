@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { CrudhomeComponent } from './crudhome/crudhome.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ReactiveFormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 // material modules
 import {MatToolbarModule} from '@angular/material/toolbar';
@@ -33,6 +34,7 @@ import {MatSelectModule} from '@angular/material/select';
     AppRoutingModule,
     BrowserAnimationsModule,
     ReactiveFormsModule,
+    HttpClientModule,
     MatToolbarModule,
     MatIconModule,
     MatButtonModule,
